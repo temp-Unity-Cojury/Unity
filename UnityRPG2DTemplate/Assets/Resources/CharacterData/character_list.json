@@ -1,0 +1,17 @@
+[
+    {
+        "characterName": "Knight",
+        "hp": 120,
+        "attack": 20
+    },
+    {
+        "characterName": "Archer",
+        "hp": 80,
+        "attack": 30
+    },
+    {
+        "characterName": "Mage",
+        "hp": 60,
+        "attack": 40
+    }
+]
