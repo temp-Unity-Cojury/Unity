@@ -1,6 +1,13 @@
-# Unity 2D Project (Hub-ready)
+# 유니티 미니 프로젝트 | 제목 : 미정
+> 모바일 턴제 + 로그라이크 RPG 게임
 
-Unity Hub에서 **Open → 폴더 선택**만 하면 바로 열리는 2D 프로젝트 템플릿입니다.
-- 요청하신 Assets 폴더 구조 포함
-- Packages/manifest.json 포함 (2D/UGUI/InputSystem)
-- ProjectSettings/ 폴더는 비워두었습니다. 첫 실행 시 Unity가 자동 생성합니다.
+## :black_cat: 깃허브
+https://github.com/temp-Unity-Cojury
+
+## :clipboard: 기획
+### :file_folder: 노션
+https://www.notion.so/247c655cd280809bb923c2e23aace441?v=247c655cd28081afad27000cc433c07d&source=copy_link
+
+## :four_leaf_clover: 디자인
+### :city_sunset: 피그마
+https://www.figma.com/design/1X6YPYdGIvJucQuHfBNC68/Untitled?node-id=0-1&m=dev&t=kYnvdttMPleE9JMK-1
