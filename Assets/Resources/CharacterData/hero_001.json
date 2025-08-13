@@ -1,0 +1,24 @@
+{
+  "id": "hero_001",
+  "name": "Novice Knight",
+  "rarity": "R",
+  "baseStats": {
+    "hp": 120,
+    "atk": 15,
+    "def": 8,
+    "spd": 10
+  },
+  "skills": [
+    {
+      "id": "slash",
+      "name": "Slash",
+      "power": 1.0
+    },
+    {
+      "id": "guard",
+      "name": "Guard",
+      "power": 0.0,
+      "effect": "DEF_UP"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+# ===== Unity =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+[Aa]ssets/AssetStoreTools*
+[Pp]ackages/packages-lock.json
+
+# IDE
+.vs/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# C#
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Builds
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Addressables cache
+/[Aa]ssets/AddressableAssetsData/*/Windows/*
+/[Aa]ssets/AddressableAssetsData/*/Android/*
+/[Aa]ssets/AddressableAssetsData/*/iOS/*

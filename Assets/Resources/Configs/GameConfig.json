@@ -1,0 +1,5 @@
+{
+  "gameName": "My 2D RPG",
+  "startingGold": 1000,
+  "maxPartySize": 4
+}
