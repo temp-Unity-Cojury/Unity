@@ -1,0 +1,32 @@
+[{
+  "id": "hero_001",
+  "name": "novice knight",
+  "rarity": "r",
+  "basestats": {
+    "level" : 1,
+    "hp": 120,
+    "mp" : 20,
+    "atk": 15,
+    "def": 8,
+    "spd": 10,
+    "exp" : 0
+  },
+  "skills": [
+    {
+      "id": "slash",
+      "power": 1.0
+    },
+    {
+      "id": "guard",
+      "power": 0.0,
+      "effect": "def_up"
+    }
+  ],
+  "equipment" : [{
+      "id" : "helm of valor"
+    },
+    {
+      "id" : "armor of valor"
+    }
+  ]
+  }]
